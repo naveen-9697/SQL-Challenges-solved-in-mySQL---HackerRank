@@ -1,4 +1,4 @@
-# SQL-Challenges--HackerRank
+# SQL-Challenges(solved in mySQL)--HackerRank
 
 link to challenges: https://www.hackerrank.com/domains/sql
 -----------
